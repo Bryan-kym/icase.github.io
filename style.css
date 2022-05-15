@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.navbar {
+    width: 100%;
+}
+.buttons {
+    margin-left: 45vh;
+    margin-top: 4vh;
+}
+.taskbar {
+    margin-top: 2vh;
+    margin-bottom: 0vh;
+    background-color: #ce1b1b;
+    text-align: center;
+    font-weight: 200;
+    font-family: sans-serif;
+    height: 10vh;
+}
+small {
+    color: antiquewhite;
+}
+f {
+    color: white;
+    font-family: Bookman old style;
+    font-size: 16;
+}
+.backbutton {
+    margin-left: 50%;
+    margin-top: 50vh;
+}
